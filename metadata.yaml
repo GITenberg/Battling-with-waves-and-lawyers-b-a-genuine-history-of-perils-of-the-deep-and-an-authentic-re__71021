@@ -5,9 +5,14 @@ contributor:
     agent_name: Reid, John Arbuckle
     gutenberg_agent_id: '56043'
     url: http://www.gutenberg.org/2009/agents/56043
+covers:
+- cover_type: archival
+  image_path: 71021-h/images/cover.jpg
 description: An account of the shipwreck of the S.S. Alert by the only survivor, Robert
   Ponting; and an account of the case for damages brought by Mrs. Lucy Kilpatrick
   against Huddart, Parker and Co., the ship's owners.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71021#Battling-with-waves-and-lawyers-b-a-genuine-history-of-perils-of-the-deep-and-an-authentic-re_
 gutenberg_issued: '2023-06-22'
 identifiers:
   gutenberg: '71021'
